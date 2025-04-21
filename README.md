@@ -29,5 +29,5 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahdzeiad96&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdzeiad96&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marsth2nd&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsth2nd&layout=compact&theme=tokyonight)
