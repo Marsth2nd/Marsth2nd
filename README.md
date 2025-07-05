@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Iwaina </h1>
-<h3 align="center">A passionate full-stack developer and digital archaeologist</h3>
+<h3 align="center">A passionate Full-Stack Developer and digital / Former Archaeologist</h3>
 
 - 🔭 I’m currently working on [Sawa-ed](https://github.com/shahdzeiad96/Sawa-ed)  
 - 🌱 I’m currently learning **advanced Django, AIML integrations, and Tailwind CSS**  
